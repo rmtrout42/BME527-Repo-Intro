@@ -1,0 +1,7 @@
+Python Manual for Printing
+The command for printing in python is
+
+print()
+
+Example:
+print("Hello World!")
