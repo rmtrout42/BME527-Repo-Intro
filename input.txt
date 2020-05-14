@@ -1,0 +1,8 @@
+Input command 
+
+The way to receive input from the command line in Python is:
+
+input()
+
+Example:
+choice = input("Enter a letter: ")
